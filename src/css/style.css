@@ -56,7 +56,6 @@ header{
     text-align: right;
     color: #fff;
     display: flex;
-    justify-content: end;
 
 }
 
@@ -229,3 +228,4 @@ header{
     height: 280px;
     margin-top: 20px;
 }
+
